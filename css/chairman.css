@@ -1,6 +1,7 @@
 @media only screen and (min-width: 741px) {   
     .banchunhiem{
         margin: auto;
+        margin-bottom: 50px;
         width: 100%;
         display: flex;
         flex-direction: row;

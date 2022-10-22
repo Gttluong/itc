@@ -124,6 +124,9 @@ h2{
 
 /* resposive */
 @media only screen and (max-width: 1023px) {
+    .header .right{
+        display: none;
+    }
     .body{
         width: 100%;
     }
@@ -149,6 +152,9 @@ h2{
         left: 2.5%;
         bottom: 5%;
         z-index: 2;
+    }
+    .introduct{
+        height: 38rem;
     }
     .introduct .trai p:nth-child(2){
         display: -webkit-box;
@@ -283,7 +289,7 @@ h2{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 140px 45px 140px;
-        grid-gap: 20px;
+        grid-gap: 10px;
     }
 
     /* button */

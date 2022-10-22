@@ -14,7 +14,7 @@ window.addEventListener('scroll',() => {
         menu.className = 'normal'
         outstanding.id = 'normal'
     }
-    if(scroll_Y >= 3780){
+    if(scroll_Y >= 3815){
         outstanding.id = 'outNormal'
     }
 })
