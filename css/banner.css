@@ -12,8 +12,8 @@
     /*banner*/
 .body .banner{
     width: 100%;
-    height: 480px;
-    font-size: 480px;
+    height: 500px;
+    font-size: 500px;
     margin: auto;
     position: relative;
     overflow: hidden;
@@ -79,7 +79,7 @@
     
     background: url('../image/Chào\ mừng\ tân\ sinh\ viên\ K15.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*2*/
@@ -89,7 +89,7 @@
 
     background: url('../image/Cuộc\ Thi\ Olympic\ Tin\ học.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*3*/
@@ -99,7 +99,7 @@
     
     background: url('../image/Cuộc\ thi\ Tiktok\ with\ ITC.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 } 
 /*4*/
@@ -109,7 +109,7 @@
     
     background: url('../image/Công\ trình\ \'Tranh\ tường\ bích\ họa\'.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*5*/
@@ -119,7 +119,7 @@
     
     background: url('../image/Hỗ\ trợ\ Seagame.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*6*/
@@ -129,7 +129,7 @@
     
     background: url('../image/Lập\ trình\ C++.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*7*/
@@ -139,7 +139,7 @@
     
     background: url('../image/Tuyển\ thành\ viên\ sutdy\ design.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*8*/
@@ -149,7 +149,7 @@
     
     background: url('../image/Lập\ trình\ web.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*9*/
@@ -159,7 +159,7 @@
     
     background: url('../image/Tuyển\ thành\ viên\ đội\ ITVT.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 /*10*/
@@ -169,7 +169,7 @@
     
     background: url('../image/Chào\ mừng\ tân\ sinh\ viên\ K15.jpg') no-repeat;
     object-fit: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     display: block;
 }
 
